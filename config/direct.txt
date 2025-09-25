@@ -1,1 +1,6 @@
-
+wise.com
+*.wise.com
+5288.eu.org
+*.5288.eu.org
+agedm.io
+*.agedm.io
