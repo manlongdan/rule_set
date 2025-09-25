@@ -4,7 +4,7 @@
       {"rule_set": "my_direct", "outbound": "🎯 全球直连"}
     ],
     "rule_set": [
-      {"tag": "my_direct", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://github.com/qljsyph/ruleset-icon/raw/refs/heads/main/sing-box/geoip/China-ASN-combined-ip.srs", "download_detour": "🎯 全球直连"}
+      {"tag": "my_direct", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/manlongdan/rule_set/refs/heads/main/config/direct.txt", "download_detour": "🎯 全球直连"}
     ]
   }
 }
