@@ -1,11 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
-    { "domain": "agedm.io" },
-    { "domain_suffix": "agedm.io" },
-    { "domain": "wise.com" },
-    { "domain_suffix": "wise.com" },
-    { "domain": "5288.eu.org" },
-    { "domain_suffix": "5288.eu.org" }
+    "agedm.io",
+    "*.agedm.io",
+    "wise.com",
+    "*.wise.com"
   ]
 }
